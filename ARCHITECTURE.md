@@ -2,6 +2,8 @@
 
 ## System Architecture (This architecture digram, was created by chat gpt)
 
+###docker image: https://hub.docker.com/repository/docker/lokeshchandra2307/hospital_management_backend/gener
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                        USER BROWSER                         │
