@@ -1,6 +1,6 @@
 # Healthcare Management System - Architecture & Flow Diagram
 
-## System Architecture
+## System Architecture (This architecture digram, was created by chat gpt)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
