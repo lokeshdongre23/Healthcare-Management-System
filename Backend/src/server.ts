@@ -3,7 +3,7 @@ import cors from "cors";
 import patientRouter from "./routes/patientRoutes";
 import appointmentRouter from "./routes/appointmentRoutes";
 const app = express();
-const port = 3001;
+const port = 8080;
 
 // Midsdleware to parse JSON
 app.use(express.json());
